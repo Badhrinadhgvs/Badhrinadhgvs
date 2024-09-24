@@ -16,7 +16,7 @@
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer,An Machine Learning Aspirant, An Open Source Contributor,A Competitive Programmer, Self Thought Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Python Developer,A Machine Learning Aspirant, An Open Source Contributor,A Competitive Programmer, Self Thought Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
@@ -28,11 +28,6 @@
 - 📫 How to reach me: badhrinadh.g.v.s@gmail.com
   <br>
 </div>
-
-##
-
-<div>
-<
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
