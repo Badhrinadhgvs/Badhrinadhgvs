@@ -70,7 +70,6 @@ No-code interface for training and benchmarking 10+ ML algorithms — Random For
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,python,django,mysql,docker,git,html,css,js&theme=dark" />
 
 <br/><br/>
 
@@ -84,24 +83,53 @@ No-code interface for training and benchmarking 10+ ML algorithms — Random For
 </div>
 
 <br/>
+## Stack
+ 
+<table align="center">
+<tr>
+<td align="center" width="90"><img src="https://github.com/jfletcher02/icons/blob/main/ServiceNow_logo.svg" /><br/><sub>Servicenow</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" /><br/><sub>Java</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5"/><br/><sub>HTML5</sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/><sub>CSS3</sub></td>
 
-## GitHub Activity
+</tr>
+<tr>
+  <td align="center" width="90"><img src="https://cdn.simpleicons.org/mysql" width="36" height="36" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=django&theme=dark" /><br/><sub>Django</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/spring" width="36" height="36" alt="Spring"/><br/><sub>Spring</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/git" width="36" height="36" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/docker" width="36" height="36" alt="Docker"/><br/><sub>Docker</sub></td>
 
-<div align="center">
-
-<img src="https://github-readme-stats.churchless.tech/api?username=Badhrinadhgvs&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.churchless.tech/api/top-langs/?username=Badhrinadhgvs&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=Badhrinadhgvs&theme=chartreuse-dark&hide_border=true" width="60%"/>
-
-</div>
-
+</tr>
+</table>
+<p align="center"><sub><strong>AI / LLM Engineering</strong></sub></p>
+<table align="center">
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain"/><br/><sub>LangChain</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/openai" width="36" height="36" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/gradio/FF7C00" width="36" height="36" alt="Gradio"/><br/><sub>Gradio</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="36" height="36" alt="Weights & Biases"/><br/><sub>W&B</sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
+</tr>
+</table>
 <br/>
 
+## GitHub Activity
+ 
 <div align="center">
-
-<sub>Open to AI/ML and ServiceNow developer roles — always glad to connect.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=Badhrinadhgvs&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Badhrinadhgvs&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Badhrinadhgvs&theme=chartreuse-dark&hide_border=true&mode=weekly" width="60%"/>
 </div>
+<br/>
+<div align="center">
+<sub>Open to AI/ML and ServiceNow developer roles — always glad to connect.</sub>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</div>
+ 
