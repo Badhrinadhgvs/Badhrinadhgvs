@@ -123,8 +123,7 @@ No-code interface for training and benchmarking 10+ ML algorithms — Random For
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Badhrinadhgvs&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Badhrinadhgvs&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=Badhrinadhgvs&theme=chartreuse-dark&hide_border=true&mode=weekly" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Badhrinadhgvs&theme=chartreuse-dark&hide_border=true&mode=weekly" width="60%",height="165"/>
 </div>
 <br/>
 <div align="center">
