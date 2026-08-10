@@ -68,22 +68,6 @@ No-code interface for training and benchmarking 10+ ML algorithms — Random For
 
 ## Stack
 
-<div align="center">
-
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-</div>
-
-<br/>
-## Stack
  
 <table align="center">
 <tr>
@@ -110,7 +94,7 @@ No-code interface for training and benchmarking 10+ ML algorithms — Random For
 <tr>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain"/><br/><sub>LangChain</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/openai" width="36" height="36" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
+<td align="center" width="90"><img src="assets/openaiapi" width="36" height="36" alt="OpenAI"/><br/><sub>OpenAI</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/gradio/FF7C00" width="36" height="36" alt="Gradio"/><br/><sub>Gradio</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="36" height="36" alt="Weights & Biases"/><br/><sub>W&B</sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
