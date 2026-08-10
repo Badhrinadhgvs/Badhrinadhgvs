@@ -10,9 +10,9 @@
 <!-- PLACEHOLDER: Portfolio -->
 <a href="#"><img src="https://img.shields.io/badge/-Portfolio-0F2027?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <!-- PLACEHOLDER: LeetCode -->
-<a href="#"><img src="https://img.shields.io/badge/-LeetCode-0F2027?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Badhrinadhg/"><img src="https://img.shields.io/badge/-LeetCode-0F2027?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <!-- PLACEHOLDER: Resume -->
-<a href="#"><img src="https://img.shields.io/badge/-Resume-0F2027?style=flat-square&logo=readdotcv&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1DIQfppe2WS6AblSMmcWT_RwAOEHrwiMZ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-0F2027?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
